@@ -1,3 +1,5 @@
+# PROMPTY NIEPRZETESTOWANE BĘDĄ MIAŁY W TYTULE "⁉️"
+
 # ChatGPT:
 W tej sekcji będą prompty tworzone i testowanie na chacie gpt.
 
